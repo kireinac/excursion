@@ -20,12 +20,11 @@ h2 {
   font-size: 16px;
 }
 
-#description {
+#description, #copyright {
   color: gray;
   font-size: 21px;
 }
 
 #copyright {
   text-align: right;
-  color: gray;
 }
